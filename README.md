@@ -1,5 +1,8 @@
 # road-signs
 Data set for learning purposes. 
 
-## Feel free to add pics.
-Keep structure
+# Stop
+### Add few pictures to dataset.
+![Picture](stop.png)
+
+It would be nice if you keep folder structure.
