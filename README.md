@@ -1,7 +1,7 @@
 # Road-Signs Dataset
 Free data set for learning purposes. 
 ### Bigger pics
-Only +100 x +100 or bigger
+Only `100 x 100` or bigger
 
 # Stop
 ### Add few pictures to dataset.
