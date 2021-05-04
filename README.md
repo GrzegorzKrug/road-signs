@@ -1,5 +1,5 @@
-# road-signs
-Data set for learning purposes. 
+# Road-Signs Dataset
+Free data set for learning purposes. 
 
 # Stop
 ### Add few pictures to dataset.
