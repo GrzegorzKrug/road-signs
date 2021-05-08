@@ -1,5 +1,6 @@
 # Road-Signs Dataset
 Free data set for learning purposes. 
+
 Aiming for Feature Extraction tasks.
 
 ### Bigger pics
@@ -10,4 +11,5 @@ Only `100 x 100` or bigger
 ![Picture](stop.png)
 
 Very important! Keep gap between object and picture edge (about 2-3 pixels).
+
 It would be nice if you keep folder structure.
