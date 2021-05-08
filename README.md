@@ -10,6 +10,6 @@ Only `100 x 100` or bigger
 ### Add few pictures to dataset.
 ![Picture](stop.png)
 
-Very important! Keep gap between object and picture edge (about 2-3 pixels).
+Very important! Keep gap between object and picture edge (at least 2-3 pixels).
 
 It would be nice if you keep folder structure.
